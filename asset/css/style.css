@@ -1,0 +1,80 @@
+/* .box{ */
+	/* border-style:solid; */
+	/* height:500px; */
+/* } */
+
+*{
+	box-sizing:border-box;
+	font-family:'Mingzat', sans-serif;
+}
+
+.container_12{
+	background-color:#ffeee6;
+	margin-top: 40px;
+	
+}
+.banner{
+	text-align:center;
+	font-size:55px;
+	font-weight:bold;
+	color:#ff1a75;
+}
+.cover{
+	margin-top:10px;
+}
+.menu{
+	/* border-style:solid; */
+	text-align:center;
+	margin-top:5px;
+	background-color:#ff1a75;
+}
+.menu a{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	display:block;    /* to spread clickable area of anchor tag*/
+}
+
+.section{
+	/* border-style:solid; */
+	text-align:center;
+	color:white;
+	background-color:#ff1a75;
+	margin-top:10px;
+	height:40px;
+	font-weight:bold;
+	
+}
+.eproduct{
+	/* border-style:solid; */
+	margin-top:10px;
+	height:300px;
+}
+
+.eprice{
+	background-color:#ff1a75;
+	color:white;
+	font-weight:bold;
+}
+
+.btn_eproduct{
+	border-width:0px;
+	margin-left:60px;
+	color:white;
+	background-color:#2F8D14;
+	border-radius:3px;
+	font-weight:bold;
+}
+.mproduct{
+	/* border-style:solid; */
+	margin-top:10px;
+	height:450px;
+}
+.footer{
+	text-align:center;
+	color:white;
+	background-color:#ff1a75;
+	margin-top:10px;
+	height:150px;
+	font-weight:bold;
+}
